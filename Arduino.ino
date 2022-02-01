@@ -1,4 +1,4 @@
-//http://kursuselektronikaku.blogspot.com/2021/02/monitor-ph-dan-suhu-serta-turbidity.html
+
 #include <Wire.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
